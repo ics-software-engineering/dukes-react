@@ -1,0 +1,35 @@
+
+a.nav-link {
+  color: white;
+}
+
+a.orange {
+  color: #F1A228;
+}
+
+#topMenu {
+  background-color: #017574;
+  color: white;
+  padding-bottom: 15px;
+}
+
+#centerImage {
+  height: 0;
+}
+
+#bottomText {
+  background-color: #017574;
+  color: white;
+}
+
+#bottomFooter {
+  background-color: #8E8579;
+  color: white;
+
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
